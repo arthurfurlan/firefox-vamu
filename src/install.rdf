@@ -7,7 +7,7 @@
     <em:id>contact@va.mu</em:id>
     <em:name>va.mu</em:name>
     <em:description>O encurtador de URLs que não machuca a internet</em:description>
-    <em:version>1.0.1</em:version>
+    <em:version>1.0.2</em:version>
     <em:creator>afurlan</em:creator>
     <em:homepageURL>http://va.mu/</em:homepageURL>
     <em:iconURL>chrome://agbshorturl/skin/images/icon_m.png</em:iconURL>
